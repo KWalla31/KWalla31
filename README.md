@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KWalla31
-- 👀 I’m interested in all things Star Trek, Stargate SG-1, anything geeky!
-- 🌱 I’m currently learning GitHub AND AWS
+- 👀 I’m interested in 
+- 🌱 I’m currently learning G
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
 
